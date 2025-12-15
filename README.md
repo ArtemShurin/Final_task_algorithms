@@ -3,9 +3,9 @@
 
 ### Описание основных модулей программы:
 
-'''bash
+```bash
 parse_input(filename)
-'''
+```
 Вход: Имя файла (input.txt)
 
 Выход: Кортеж (cities, roads, requests)
